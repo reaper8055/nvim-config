@@ -1,7 +1,7 @@
 # nvim-config
 My neovim config heavily inspired by https://github.com/LunarVim/Neovim-from-scratch
 
-# How to install:
+## How to install:
 
 ```sh
 mkdir $HOME/.config/nvim
@@ -16,5 +16,5 @@ git clone git@github.com:reaper8055/nvim-config.git .
 ```
 
 ```sh
-vim $HOME/.config/nvim/lua/users/plugins.lua
+vim $HOME/.config/nvim/lua/user/plugins.lua
 ```
