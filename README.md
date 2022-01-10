@@ -16,5 +16,5 @@ git clone git@github.com:reaper8055/nvim-config.git .
 ```
 
 ```sh
-vim $HOME/.config/nvim/lua/user/plugins.lua
+nvim $HOME/.config/nvim/lua/user/plugins.lua
 ```
