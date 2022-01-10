@@ -3,6 +3,18 @@ My neovim config heavily inspired by https://github.com/LunarVim/Neovim-from-scr
 
 # How to install:
 
-- ```mkdir $HOME/.config/nvim```
-- ```cd $HOME/.config/nvim```
-- ```git clone git@github.com:reaper8055/nvim-config.git .```
+```sh
+mkdir $HOME/.config/nvim
+```
+
+```sh
+cd $HOME/.config/nvim
+```
+
+```sh
+git clone git@github.com:reaper8055/nvim-config.git .
+```
+
+```sh
+vim $HOME/.config/nvim/lua/users/plugins.lua
+```
