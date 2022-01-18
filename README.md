@@ -9,7 +9,7 @@ My neovim config heavily inspired by https://github.com/LunarVim/Neovim-from-scr
 mkdir -p $HOME/.config/nvim
 ```
 
-- cd into the directory:
+- `cd` into the directory:
 
 ```sh
 cd $HOME/.config/nvim
