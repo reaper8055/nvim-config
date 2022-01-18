@@ -15,6 +15,8 @@ cd $HOME/.config/nvim
 git clone git@github.com:reaper8055/nvim-config.git .
 ```
 
+Install all the plugins by opening the `plugins.lua` and save it with `:w`
+
 ```sh
 nvim $HOME/.config/nvim/lua/user/plugins.lua
 ```
