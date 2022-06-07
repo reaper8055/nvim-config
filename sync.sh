@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rsync -av --filter "merge $HOME/Projects/nvim-config/filter.conf" --delete-excluded ~/.config/nvim/ ~/Projects/nvim-config/
+rsync -av --filter "merge $(pwd)/filter.conf" --delete-excluded ~/.config/nvim/ $(pwd)/
